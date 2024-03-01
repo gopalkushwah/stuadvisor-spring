@@ -1,0 +1,1446 @@
+[
+    {
+        "subject": [
+            {
+                "title": "Engineering Chemistry",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Mathematics-I",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "English for Communication",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Electrical & Electronics Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Engineering Graphics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Engineering Physics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Mathematics-II",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Mechanical Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Civil Engineering & Mechanics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Computer Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Energy & Environmental Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Discrete Structure",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Data Structure",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Digital Systems",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Object Oriented Programming & Methodology",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "3rd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Mathematics-III",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Analysis Design of Algorithm",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Software Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Computer Org. & Architecture",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Operating Systems",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "4th Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Theory of Computation",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Database Management Systems",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Cyber Security",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Internet and Web Technology",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "5th Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Machine Learning",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Computer Networks",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Advanced Computer Architecture",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Project Management",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "6th Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Software Architectures",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Wireless & Mobile Computing",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Cryptography & Information Security",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "7th Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Internet of Things",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Cloud Computing",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Managing Innovation and Entrepreneurship",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "8th Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "1st Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "2nd Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "3rd Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "4th Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "5th Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "6th Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "7th Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "8th Sem",
+        "branch": "Mechanical Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "1st Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "2nd Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "3rd Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "4th Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "5th Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "6th Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "7th Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "8th Sem",
+        "branch": "Electronics and Communication Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "1st Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "2nd Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "3rd Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "4th Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "5th Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "6th Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "7th Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject 1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject 5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "8th Sem",
+        "branch": "Civil Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Engineering Chemistry",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Mathematics-I",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "English for Communication",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Electrical & Electronics Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Engineering Graphics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "1st Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Engineering Physics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Mathematics-II",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Mechanical Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Civil Engineering & Mechanics",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Basic Computer Engineering",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "2nd Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "3rd Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "4th Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "5th Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "6th Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "7th Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    },
+    {
+        "subject": [
+            {
+                "title": "Subject1",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject2",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject3",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject4",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "title": "Subject5",
+                "impque": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "sample": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2",
+                "prepaper": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            }
+        ],
+        "sem": "8th Sem",
+        "branch": "Electrical & Electronics Engineering",
+        "course": "btech"
+    }
+]

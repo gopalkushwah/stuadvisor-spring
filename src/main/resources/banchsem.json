@@ -1,0 +1,126 @@
+[
+    {
+        "branch": [
+            "Computer Science and Engineering",
+            "Mechanical Engineering",
+            "Electronics and Communication Engineering",
+            "Civil Engineering",
+            "Electrical & Electronics Engineering"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem",
+            "5th Sem",
+            "6th Sem",
+            "7th Sem",
+            "8th Sem"
+        ],
+        "course": "btech"
+    },
+    {
+        "branch": [
+            "MBA in Digital Marketing",
+            "MBA in Business Analytics",
+            "MBA in Data Analytics",
+            "MBA in Entrepreneurship",
+            "MBA in Finance"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem"
+        ],
+        "course": "mba"
+    },
+    {
+        "branch": [
+            "BSc Computers",
+            "BSc Home Science",
+            "BSc Mathematics",
+            "BSc Nursing",
+            "BSc Agriculture"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem",
+            "5th Sem",
+            "6th Sem"
+        ],
+        "course": "bsc"
+    },
+    {
+        "branch": [
+            "Diploma in Hotel Management",
+            "Diploma in Computer Science",
+            "Diploma in IT",
+            "Diploma in Digital Marketing",
+            "Diploma in Event Management"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem",
+            "5th Sem",
+            "6th Sem"
+        ],
+        "course": "diploma"
+    },
+    {
+        "branch": [
+            "Economics",
+            "Political Science",
+            "History",
+            "Sociology",
+            "Religious Studies"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem",
+            "5th Sem",
+            "6th Sem"
+        ],
+        "course": "ba"
+    },
+    {
+        "branch": [
+            "B.Com Accountant",
+            "B.Com Account Executive",
+            "B.Com Chartered Acountant",
+            "B.Com Economist",
+            "B.Com Finance Manager"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem",
+            "5th Sem",
+            "6th Sem"
+        ],
+        "course": "bcom"
+    },
+    {
+        "branch": [
+            "B.Ed Computer Science",
+            "B.Ed Social Science",
+            "B.Ed Home Science",
+            "B.Ed Physics",
+            "BEd Psychology"
+        ],
+        "sem": [
+            "1st Sem",
+            "2nd Sem",
+            "3rd Sem",
+            "4th Sem"
+        ],
+        "course": "bed"
+    }
+]

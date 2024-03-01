@@ -1,0 +1,282 @@
+[
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Engineering Chemistry",
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Mathematics-I",
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "English for Communication",
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Basic Electrical & Electronics Engineering",
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Engineering Graphics",
+        "sem": "1st Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Engineering Physics",
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Mathematics-II",
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Basic Mechanical Engineering",
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Basic Civil Engineering & Mechanics",
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    },
+    {
+        "units": [
+            {
+                "unit": "unit 1",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21780&authkey=AJZZSCVFwBcN09Y&em=2"
+            },
+            {
+                "unit": "unit 2",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21778&authkey=AEh8RTRxViLpYpU&em=2"
+            },
+            {
+                "unit": "unit 3",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21773&authkey=AOg9y49nrYK_vBU&em=2"
+            },
+            {
+                "unit": "unit 4",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21774&authkey=APfPNc00yKtawJw&em=2"
+            },
+            {
+                "unit": "unit 5",
+                "download": "https://onedrive.live.com/download?cid=9F0200C1153A2AA1&resid=9F0200C1153A2AA1%21772&authkey=ALPBFAxyjkXZ2W0&em=2"
+            }
+        ],
+        "subject": "Basic Computer Engineering",
+        "sem": "2nd Sem",
+        "branch": "Computer Science and Engineering",
+        "course": "btech"
+    }
+]
